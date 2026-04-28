@@ -1,5 +1,5 @@
 # IMADPort
-```IMADPort``` is a portfolio software to obtain bounds on optimal portfolios when future asset returns are bounded and the risk measure is the mean absolute deviation (MAD).
+```IMADPort``` is portfolio software to obtain bounds on optimal portfolios when future asset returns are bounded and the risk measure is the mean absolute deviation (MAD).
 
 ## Interval Portfolio Theory
 A financial asset not limited to a stock has a change in its value over time and can generate either a loss or a profit. Since its future, usually one-period ahead, price is not perfectly predictable, the investment risk which measures the deviation, using its historical asset returns dating back time periods, of its realized return from its expected value plays an important role in asset selection. A portfolio including multiple assets of different characteristics aims to mitigate this particular risk.
